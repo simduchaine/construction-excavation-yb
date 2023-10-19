@@ -21,27 +21,27 @@ export default defineConfig({
   schema: {
     collections: [
       {
-        name: "post",
-        label: "Posts",
-        path: "content/posts",
+        name: "services",
+        label: "Services",
+        path: "content/services",
         fields: [
           {
             type: "string",
             name: "title",
-            label: "Title",
+            label: "Titre",
             isTitle: true,
             required: true,
           },
           {
             type: "rich-text",
-            name: "body",
-            label: "Body",
+            name: "description",
+            label: "Description",
             isBody: true,
           },
           {
-            name: 'Image',
+            name: 'Icon',
             type: 'image',
-            label: 'Featured Image',
+            label: 'Icone',
           }
         ],
       },

@@ -1,33 +1,56 @@
 <template>
   <Layout>
+    <section id="services">
+      <div class="flex flex-col justify-center items-center">
+        <img src="../assets/icons/saw-wood-icon.svg" alt="Saw & Wood Icon">
+        <h2 class="font-display text-4xl font-semibold pt-7 pb-14">Nos Services</h2>
+      </div>
+      <services v-for="service in $page.services.edges" :key="service.node.id" :title="service.node.title" :content="service.node.content"></services>
+    </section>
 
-    <!-- Learn how to use images here: https://gridsome.org/docs/images -->
-    <g-image alt="Example image" src="~/favicon.png" width="135" />
+    <section id="a-propos">
+      <h2>À propos de nous</h2>
+    </section>
 
-    <h1>Hello, world!</h1>
+    <section id="realisations">
+      <h2>Quelques Réalisations</h2>
+    </section>
 
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur excepturi labore tempore expedita, et iste tenetur suscipit explicabo! Dolores, aperiam non officia eos quod asperiores
-    </p>
-
-    <p class="home-links">
-      <a href="https://gridsome.org/docs/" target="_blank" rel="noopener">Gridsome Docs</a>
-      <a href="https://github.com/gridsome/gridsome" target="_blank" rel="noopener">GitHub</a>
-    </p>
+    <section id="temoignages">
+      <h2>Témoignages</h2>
+      <h3>Ce que nos clients pensent de nous</h3>
+    </section>
 
   </Layout>
 </template>
 
+<page-query>
+query {
+  services: allServices {
+    edges {
+      node {
+        id
+        title
+        content
+      }
+    }
+  }
+}
+</page-query>
+
 <script>
+import services from '../components/Services.vue'
+
 export default {
   metaInfo: {
-    title: 'Hello, world!'
+    title: 'Accueil'
+  },
+  components: {
+    services
   }
 }
 </script>
 
 <style>
-.home-links a {
-  margin-right: 1rem;
-}
+
 </style>
