@@ -1,4 +1,6 @@
 ---
+image: >-
+  https://res.cloudinary.com/dajzporiy/image/upload/v1698080217/patio-composite_lgv2ib.jpg
 title: Patio en bois composite
 categorie:
   - terasse
