@@ -26,6 +26,36 @@ export default defineConfig({
         path: "content/services",
         fields: [
           {
+            name: 'Icon',
+            type: 'image',
+            label: 'Icone',
+          },
+          {
+            type: "string",
+            name: "title",
+            label: "Titre",
+            isTitle: true,
+            required: true,
+          },
+          {
+            type: "rich-text",
+            name: "description",
+            label: "Description",
+            isBody: true,
+          }
+        ],
+      },
+      {
+        name: "realisations",
+        label: "Réalisations",
+        path: "content/realisations",
+        fields: [
+          {
+            name: 'image',
+            type: 'image',
+            label: 'Photo',
+          },
+          {
             type: "string",
             name: "title",
             label: "Titre",
@@ -39,9 +69,36 @@ export default defineConfig({
             isBody: true,
           },
           {
-            name: 'Icon',
-            type: 'image',
-            label: 'Icone',
+            type: 'string',
+            name: 'categorie',
+            label: 'Catégorie',
+            list: true,
+            options: [
+              {
+                value: "toiture",
+                label: "Toiture"
+              },
+              {
+                value: "terasse",
+                label: "Terasse et Patio"
+              },
+              {
+                value: "revetement",
+                label: "Revêtement Extérieur"
+              },
+              {
+                value: "renovation",
+                label: "Rénovation Résidentielle"
+              },
+              {
+                value: "paysagement",
+                label: "Paysagement"
+              },
+              {
+                value: "apres-sinistre",
+                label: "Construction après sinistre"
+              }
+            ]
           }
         ],
       },
