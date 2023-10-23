@@ -1,4 +1,6 @@
 ---
+image: >-
+  https://res.cloudinary.com/dajzporiy/image/upload/v1698080164/finition-sous-sol_nfwlzt.jpg
 title: Aménagement de sous-sol
 categorie:
   - renovation
