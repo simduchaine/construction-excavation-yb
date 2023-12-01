@@ -14,7 +14,8 @@
     "gridsome": "^0.7.0",
     "gridsome-plugin-sass-resources-loader": "^0.0.3",
     "next-tinacms-cloudinary": "^4.3.5",
-    "tinacms": "^1.5.20"
+    "tinacms": "^1.5.20",
+    "vue-slick-carousel": "^1.0.6"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.16",

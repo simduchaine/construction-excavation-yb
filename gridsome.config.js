@@ -6,6 +6,7 @@
 
 module.exports = {
   siteName: 'Construction Excavation YB',
+  icon: './src/assets/logo.png',
   plugins: [
     {
       use: 'gridsome-plugin-sass-resources-loader',
