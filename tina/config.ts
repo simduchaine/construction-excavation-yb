@@ -46,6 +46,32 @@ export default defineConfig({
         ],
       },
       {
+        name: "temoignages",
+        label: "Témoignages",
+        path: "content/temoignages",
+        fields: [
+          {
+            type: "string",
+            name: "name",
+            label: "Nom",
+            isTitle: true,
+            required: true,
+          },
+          {
+            type: "string",
+            name: "city",
+            label: "Ville",
+            required: true,
+          },
+          {
+            type: "rich-text",
+            name: "temoignage",
+            label: "Témoignage",
+            isBody: true,
+          }
+        ],
+      },
+      {
         name: "realisations",
         label: "Réalisations",
         path: "content/realisations",

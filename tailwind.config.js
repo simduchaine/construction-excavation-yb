@@ -24,6 +24,7 @@ module.exports = {
       backgroundImage: theme => ({
         'wave': "url('~@/assets/images/bg-texture-wave.png')",
         'earth': "url('~@/assets/images/earth-bg-texture.png')",
+        'shape': "url('~@/assets/images/shape.png')",
 
       })
     },

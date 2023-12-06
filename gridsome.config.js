@@ -41,6 +41,13 @@ module.exports = {
         path: './content/realisations/**/*.md',
         typeName: 'Realisations'
       }
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: './content/temoignages/**/*.md',
+        typeName: 'Temoignages'
+      }
     }
   ]
 }
