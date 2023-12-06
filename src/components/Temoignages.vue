@@ -22,7 +22,7 @@
 
 <script>
 export default {
-    name: 'temoignages',
+    name: 'Temoignages',
     props: ['name', 'content', 'city'],
     
 }
