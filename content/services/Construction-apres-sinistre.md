@@ -1,5 +1,7 @@
 ---
+Icon: >-
+  https://res.cloudinary.com/dajzporiy/image/upload/v1701829299/construction-apres-sinistre_k3hayv.svg
 title: Construction après sinistre
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque varius morbi enim nunc. Odio euismod lacinia at quis risus sed vulputate odio.
+Restauration rapide suite à des dommages.
