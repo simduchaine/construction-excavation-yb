@@ -1,5 +1,7 @@
 ---
+Icon: >-
+  https://res.cloudinary.com/dajzporiy/image/upload/v1701829455/revetement-ext_pbkwxw.svg
 title: Revêtement Extérieur
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque varius morbi enim nunc. Odio euismod lacinia at quis risus sed vulputate odio.
+Revêtements modernes pour une esthétique raffinée.
