@@ -1,7 +1,7 @@
 ---
-title: Terasse et Patio
 Icon: >-
-  https://res.cloudinary.com/dajzporiy/image/upload/v1697762450/Icones/deck-chair_vmq8ip.svg
+  https://res.cloudinary.com/dajzporiy/image/upload/v1701829496/deck-chair_v7nm6l.svg
+title: Terasse et Patio
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque varius morbi enim nunc. Odio euismod lacinia at quis risus sed vulputate odio.
+Conceptions de terasses et patios uniques et sur mesure.
