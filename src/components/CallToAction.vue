@@ -13,7 +13,7 @@
             <div>
                 <p class="font-semibold leading-tight font-display lg:text-3xl text-xl pt-4">À la recherche d’un entrepreneur en construction à Québec? <br> Contactez nous dès maintenant!</p>
             </div>
-            <a class="inline-block w-auto mb-4 mt-10 lg:mr-6 py-5 px-8 text-sm font-body uppercase border-2 border-transparent hover:bg-gray-500 bg-gray-100 text-gray-800 hover:text-white transition duration-200" href="mailto:Ybureauconstruction@hotmail.com">Contactez-nous</a>
+            <a class="inline-block w-auto mb-4 mt-10 lg:mr-6 py-5 px-8 text-sm font-body uppercase border-2 border-transparent hover:bg-gray-500 bg-gray-100 text-gray-800 hover:text-white transition duration-200" href="mailto:info@constructionyb.com">Contactez-nous</a>
         </div>
 
         <!-- Background image occupying 50% of the right side -->
