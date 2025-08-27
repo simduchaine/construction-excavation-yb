@@ -9,7 +9,7 @@
                         <h1 class="mt-8 mb-6 text-4xl lg:text-5xl font-bold text-gray-100 uppercase font-display">Transformez Votre <span class="text-wood-brown">Espace de Rêve</span> en Réalité</h1>
                         <p class="max-w-3xl mx-auto mb-10 text-lg text-gray-300 font-body">Experts en Rénovation et Construction Résidentielle à Québec</p>
                         <a class="inline-block w-full md:w-auto mb-4 md:mr-6 py-5 px-8 text-sm font-medium uppercase border-2 border-transparent bg-gray-800 hover:bg-gray-100 hover:text-gray-800 text-white transition duration-200"
-              href="mailto:Ybureauconstruction@hotmail.com">Contactez-nous</a>
+              href="mailto:info@constructionyb.com">Contactez-nous</a>
                     </div>
                 </div>
             </div>

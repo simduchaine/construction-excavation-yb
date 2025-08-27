@@ -49,7 +49,7 @@
                         <div class="bg-gray-600 rounded w-6 h-6 flex items-center flex-col justify-center">
                             <g-image src="../assets/icons/envelope-solid.svg" />
                         </div>
-                        <a href="mailto:Ybureauconstruction@hotmail.com" class="pl-2 flex items-center hover:text-wood-brown">info@constructionyb.com</a>
+                        <a href="mailto:info@constructionyb.com" class="pl-2 flex items-center hover:text-wood-brown">info@constructionyb.com</a>
                     </div>
                 </div>
             </div>
@@ -58,7 +58,7 @@
         
         <!-- Copyright Section -->
         <div class="bg-slate-800 h-16 text-center mt-8 pt-5">
-           <span class="text-stone-300">Copyright &copy;  2023 Construction & Excavation YB Inc. Tous droits réservés.</span>
+           <span class="text-stone-300">Copyright &copy;  2025 Construction & Excavation YB Inc. Tous droits réservés.</span>
         </div>
 
     </footer>
@@ -86,7 +86,7 @@
                         1097 rue Edison Québec, Québec G3K 1T1
                     </address>
                     <a href="tel:+15819986184">(581) 998-6184</a>
-                    <a href="mailto:Ybureauconstruction@hotmail.com">info@constructionyb.com</a>
+                    <a href="mailto:info@constructionyb.com">info@constructionyb.com</a>
                 </div>
             </div>
         </div>
